@@ -7,4 +7,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0184-department-highest-salary/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0684-redundant-connection](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 <!---LeetCode Topics End-->
