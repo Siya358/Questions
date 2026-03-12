@@ -19,8 +19,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 <!---LeetCode Topics End-->
