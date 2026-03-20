@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Two Pointers
@@ -43,5 +44,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 <!---LeetCode Topics End-->
