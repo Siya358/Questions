@@ -32,14 +32,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -54,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 <!---LeetCode Topics End-->
