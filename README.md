@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0184-department-highest-salary/) | Medium |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
