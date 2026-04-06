@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0213-house-robber-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0213-house-robber-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
