@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0120-triangle](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0213-house-robber-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -102,4 +103,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
