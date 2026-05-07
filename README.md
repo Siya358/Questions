@@ -132,4 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
