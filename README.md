@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1697-checking-existence-of-edge-length-limited-paths/) | Hard |
 ## Sorting
@@ -135,9 +136,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
