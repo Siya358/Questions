@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 | [0733-flood-fill](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0735-asteroid-collision](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Siya358/Questions/tree/main/LeetCode/Hard/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0735-asteroid-collision](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,4 +165,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
