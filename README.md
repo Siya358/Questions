@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/1971-find-if-path-exists-in-graph/) | Easy |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,10 +163,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
