@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0213-house-robber-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0611-valid-triangle-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0213-house-robber-ii](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Siya358/Questions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Siya358/Questions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
